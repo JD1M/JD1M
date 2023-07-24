@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋, I am Nazriddin Misbohiddin.</h1>
+<h1 align="left">Hi 👋, I am Nazriddin Misbohiddin.</h1>
 
 ###
 
