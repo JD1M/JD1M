@@ -17,6 +17,8 @@
 <h3 align="left">Cybersecurity Enthusiast and Web Developer.</h3>
 <p align="left">📌 Having master degree of Information Security  at ITMO University<br>📌 Interested in collaboration on interesting projects</p>
 
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -49,9 +51,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
 </div>
 
+###
+
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=JD1M&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JD1M&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <img src="https://raw.githubusercontent.com/JD1M/JD1M/output/snake.svg" alt="Snake animation" />
